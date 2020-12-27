@@ -5,3 +5,7 @@
 loader: `loader/loader.js`
 
 将业务代码中的`aaa`换成`bbb`
+
+-------------------------
+
+`npm run transform`
