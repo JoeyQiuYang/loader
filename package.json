@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve"
+    "start": "webpack serve",
+    "transform": "node ./bin/transform transform.config.js src"
   },
   "keywords": [],
   "author": "",
